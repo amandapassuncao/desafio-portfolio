@@ -1,3 +1,6 @@
+Acesse o Projeto Online
+[Clique aqui para visualizar o site] 👉 https://amandapassuncao.github.io/desafio-portfolio/
+
 # Portfólio - Desafio Prático
 
 ## Sobre o Projeto
@@ -21,5 +24,6 @@ Este projeto foi desenvolvido como desafio prático com o objetivo de aplicar co
 - GitHub: https://github.com/amandapassuncao 
 
 ---
+
 
 Projeto desenvolvido por Amanda Assunção.
